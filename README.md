@@ -1,36 +1,51 @@
-# BERTによる自然言語処理を学ぼう！ -Attention、TransformerからBERTへとつながるNLP技術-
-自然言語処理の様々なタスクで高い性能を発揮する、「BERT」を学ぶ講座です。  
-BERT（Bidirectional Encoder Representations from Transformers ）は2018年10月にGoogleが公開して以来、世界中のAI関係者の注目を集めています。 
+# BERT를 사용해 자연 언어 처리를 배우자! \~Attention, Transformer, BERT로 이어지는 NLP 기술\~
 
-Section1. 講座とBERTの概要  
-→ 自然言語処理、Transformer、BERTについて概要を学びます。
+자연언어 처리의 다양한 태스크에서 높은 성능을 발휘하는 'BERT'에 관해 학습하는 강좌입니다. BERT(Bidirectional Encoder Representations from Tansformers)는 2018년 10월에 구글(Google)에서 공개한 후, 전세계 AI 관계자들의 주목을 모으고 있습니다.
 
-Section2. シンプルなBERTの実装  
-→ 最小限のPythonのコードでBERTを実装します。
+Section1. 강좌와 BERT 소개
 
-Section3. BERTの仕組み  
-→ Transformer、BERTなどについて仕組みを詳しく学びます。
+→ 자연 언어 처리, Transformer, BERT에 관해 간단하게 학습합니다.
 
-Section4. ファインチューニングの活用  
-→ ファインチューニングの概要、そしてBERTにおける活用について解説します。
+Section2. 간단한 BERT 구현
 
-Section5. BERTの応用  
-→ BERTを使って、自然言語処理のタスクに取り組みます。
+→ 최소한의 파이썬 코드로 BERT를 구현합니다.
 
-Udemyコース: [BERTによる自然言語処理を学ぼう！](https://www.udemy.com/course/nlp-bert/?referralCode=276BD5473E099ACEAFCD)
+Section3. BERT의 구조
 
-### 自由研究室 AIRS-Lab（コミュニティ）
-「AI」をテーマに交流し、創造するWeb上のコミュニティです。  
-https://www.airs-lab.jp/  
+→ Transformer, BERT 등의 구조에 관해 자세하게 학습합니다.
+
+Section4. 파인 튜닝 활용
+
+→ 파인 튜닝 개요, 그리고 BERT의 활용에 관해 설명합니다.
+
+Section5. BERT 응용
+
+→ BERT를 사용해 자연 언어 처리의 태스크를 수행합니다.
+
+Udemy 강좌: [BERT를 사용해 자연 언어 처리를 배우자!(BERTによる自然言語処理を学ぼう！)(일본어)](https://www.udemy.com/course/nlp-bert/?referralCode=276BD5473E099ACEAFCD)
+
+### 자유 연구소 AIRS-Lab(커뮤니티)
+
+'AI'를 주제로 교류하고 창조하는 웹 커뮤니티입니다(일본어).
+
+[https://www.airs-lab.jp/](https://www.airs-lab.jp/)
+
+### News! AIRS-Lab(메일 매거진)
+
+AI에 관한 화제, 강의 동영상, Udemy 강좌 할인 등 AIRS-Lab의 최신 콘텐츠를 메일로 제공합니다(일본어).
+
+[https://www.airs-lab.jp/newsletter](https://www.airs-lab.jp/newsletter)
   
-### News! AIRS-Lab（メルマガ）
-AIの話題、講義動画、Udemyコース割引などのAIRS-Lab最新コンテンツをメールで配信します。  
-https://www.airs-lab.jp/newsletter  
-  
-### AI教室 AIRS-Lab（YouTubeチャンネル）
-毎週月曜日21時に、YouTubeでライブ講義を開催しています。  
+### AI 교실 AIRS-Lab(YouTube 채널)
+
 https://www.youtube.com/channel/UCT_HwlT8bgYrpKrEvw0jH7Q  
+
+매주 월요일 21시 YouTube에서 라이브 강의를 개최합니다(일본어).
   
-### Udemyコース
-オンライン動画学習プラットフォームUdemyで、AI関連のコースを複数展開しています。  
-https://www.airs-lab.jp/lectures  
+[https://www.youtube.com/channel/UCT_HwlT8bgYrpKrEvw0jH7Q](https://www.youtube.com/channel/UCT_HwlT8bgYrpKrEvw0jH7Q)  
+
+### Udemy 강좌
+
+온라인 동영상 학습 플랫폼인 Udemy에서 AI와 관련된 다양한 강좌를 열고 있습니다(일본어).
+
+[https://www.airs-lab.jp/lectures](https://www.airs-lab.jp/lectures)
