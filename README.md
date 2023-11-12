@@ -33,8 +33,6 @@ AI에 관한 화제, 강의 동영상, Udemy 강좌 할인 등 AIRS-Lab의 최�
   
 ### AI 교실 AIRS-Lab(YouTube 채널)
 
-https://www.youtube.com/channel/UCT_HwlT8bgYrpKrEvw0jH7Q  
-
 매주 월요일 21시 YouTube에서 라이브 강의를 개최합니다(일본어).
   
 [https://www.youtube.com/channel/UCT_HwlT8bgYrpKrEvw0jH7Q](https://www.youtube.com/channel/UCT_HwlT8bgYrpKrEvw0jH7Q)  
